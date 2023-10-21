@@ -158,7 +158,7 @@ def login_lagi334():
 		banner()
 		cetak(nel('\t©©© Saran Ektensi : [green]Cookiedough[white] ©©©'))
 		asu = random.choice([m,k,h,b,u])
-		your_cookies = input(f'  [{h}•{x}] Masukkan Cookies :{asu} ')
+		your_cookies = input(f'  [{h}•{x}] Masukkan Cookies :{vpd=v1%3B860x450x1.600000023841858;sb=CB8qZfipJJRYM5Up7x1yoKV5;wd=450x860;fr=0tBWFjQsAXrw4myfT.AWXQhpudy1uJdZVtsDMZHXPHtdE.BlKh8G.2a.AAA.0.0.BlM9Hn.AWVw5xitK7c;c_user=100094557729692;xs=50%3AYm0MrNkxbQPyWA%3A2%3A1697894888%3A-1%3A14650;zsh=ASTO2dGNa_nmzDcB7uw55Eyc98mW02G3lnYssUjMNKeWAbcAbQVLLzzmBkpryXfsLYucg228CuQGA5gbWntkA6PUkQ37WMZVw6h3sP0Am5zJFsWgm-P2K097rPlaE4ObyQPIsYK3lXtIpucY07THWsal458wN3cDuVB6RN7-H5cS9sGZSgFwWS0KMW6-IBYBE7DSUwT51ebE-hgxdNohP7WsBj66684GXIGpDjVoF0ypISr-lL3OzgVzLaClk5tTLxDW_mNeggiAw1JKHoapI20Stt-R21igzVFLD5E8etWgN2aBBSiKCvcIfbiaJ6eM4m5n;fbl_cs=AhCNth4%2BvRF2X%2F6NHEW116YhGGF2UkQxZkxsdG1ueVVxN0lyMURIOGU1cg;fbl_ci=1641835746315005;datr=TtgzZYETySG9gedfYggHvF37;locale=id_ID;fbl_st=101433507%3BT%3A28298275;} ')
 		with requests.Session() as r:
 			try:
 				r.headers.update({'content-type': 'application/x-www-form-urlencoded',})
